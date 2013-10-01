@@ -4,6 +4,7 @@ import sys
 import Agente
 import Ambiente
  
+
 class Main:
 	def main (self):
 		if len(sys.argv) < 3 or len(sys.argv) > 4:
@@ -30,8 +31,12 @@ class Main:
 		else:
 			ambiente = Ambiente.Ambiente(open(sys.argv[1], "r").read(), DEBUG)
 
-		agente.BFS(ambiente, ambiente.n, 1)
-
+		if DEBUG :
+			print ambiente.n/2
+		if (DEBUG and sys.argv[3] == 'L') or (not DEBUG and sys.argv[2] == 'L') :
+			for i in range(ambiente.n/2 + 1):
+				print agente.BFS(ambiente, ambiente.n, i)
+			# print agente.BFS(ambiente, ambiente.n, 2)
 main  = Main()
 
 main.main ()
