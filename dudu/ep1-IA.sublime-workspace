@@ -1,0 +1,770 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"arqIndex"
+			],
+			[
+				"aq",
+				"arqIndex"
+			],
+			[
+				"get",
+				"GetContentTypeLine"
+			],
+			[
+				"str",
+				"strcpy"
+			],
+			[
+				"Sen",
+				"SendResp"
+			],
+			[
+				"fi",
+				"file"
+			],
+			[
+				"lin",
+				"lineBuffer"
+			],
+			[
+				"strc",
+				"strcat"
+			],
+			[
+				"li",
+				"lineBuffer"
+			],
+			[
+				"file",
+				"SendFile"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"h",
+				"httpVer"
+			],
+			[
+				"ht",
+				"http_server"
+			],
+			[
+				"http",
+				"http_main"
+			],
+			[
+				"tmp",
+				"tmpFile"
+			],
+			[
+				"Evobook",
+				"Evobooks"
+			],
+			[
+				"ins",
+				"instala"
+			],
+			[
+				"evobook",
+				"Evobook"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"tm",
+				"tmp"
+			],
+			[
+				"print",
+				"printf	printf …"
+			],
+			[
+				"caminho",
+				"Caminho"
+			],
+			[
+				"ma",
+				"maxV"
+			],
+			[
+				"Grap",
+				"GRAPHInit"
+			],
+			[
+				"Gra",
+				"GRAPHInit"
+			],
+			[
+				"GRA",
+				"Graph"
+			],
+			[
+				"max",
+				"maxC"
+			],
+			[
+				"Cami",
+				"CaminhoR"
+			],
+			[
+				"in",
+				"inc	#include \"…\""
+			],
+			[
+				"T",
+				"endActionTemplatePage"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"film",
+				"filmdata"
+			],
+			[
+				"priori",
+				"priority"
+			],
+			[
+				"Cl",
+				"clearDB"
+			],
+			[
+				"prio",
+				"priority"
+			],
+			[
+				"name",
+				"_name"
+			],
+			[
+				"is",
+				"isdigit"
+			],
+			[
+				"templa",
+				"template_params"
+			],
+			[
+				"Print",
+				"PrintMST"
+			],
+			[
+				"prim",
+				"Prim"
+			],
+			[
+				"time",
+				"timek"
+			],
+			[
+				"timer",
+				"timer1"
+			],
+			[
+				"grah",
+				"GRAPHmstP"
+			],
+			[
+				"pq",
+				"PQlen"
+			],
+			[
+				"Pq",
+				"PQlen"
+			],
+			[
+				"PQ",
+				"PQtop"
+			],
+			[
+				"edge",
+				"edge"
+			],
+			[
+				"Pri",
+				"PrintMST"
+			],
+			[
+				"mst",
+				"mst"
+			],
+			[
+				"edg",
+				"edgiInGraph"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"ed",
+				"edgeCount"
+			],
+			[
+				"prin",
+				"printf	printf …"
+			],
+			[
+				"V",
+				"V"
+			],
+			[
+				"Adj",
+				"adjNode"
+			],
+			[
+				"getr",
+				"GetRandomEdgeOffGraph"
+			],
+			[
+				"gra",
+				"GRAPHInsertE"
+			],
+			[
+				"ver",
+				"Vertex"
+			],
+			[
+				"verte",
+				"Vertex"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"E",
+				"EXIT_FAILURE"
+			],
+			[
+				"G",
+				"G"
+			],
+			[
+				"Vertex",
+				"Vertex"
+			],
+			[
+				"GR",
+				"GRAPHInsertE"
+			],
+			[
+				"ve",
+				"vertexesOffTree"
+			],
+			[
+				"of",
+				"offTreeSize"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"vert",
+				"vertexStatus"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"au",
+				"aux"
+			],
+			[
+				"DI",
+				"Digraph"
+			],
+			[
+				"pi",
+				"pifast"
+			],
+			[
+				"num",
+				"num_it"
+			],
+			[
+				"thid",
+				"th_id"
+			],
+			[
+				"arri",
+				"arrive2"
+			],
+			[
+				"arr",
+				"arrive"
+			],
+			[
+				"barr",
+				"barrier"
+			],
+			[
+				"br",
+				"barrier_init"
+			],
+			[
+				"p",
+				"proc"
+			],
+			[
+				"d",
+				"dif"
+			],
+			[
+				"mpa",
+				"mpf_abs"
+			],
+			[
+				"mpf_a",
+				"mpf_abs"
+			],
+			[
+				"mpf",
+				"mpf_init"
+			],
+			[
+				"k",
+				"k_ref"
+			],
+			[
+				"mp",
+				"mpf_add"
+			],
+			[
+				"thre",
+				"threadTemp"
+			],
+			[
+				"ref",
+				"k_ref"
+			],
+			[
+				"ak",
+				"a_kpriv"
+			],
+			[
+				"th",
+				"th_id"
+			],
+			[
+				"thr",
+				"threadTemp"
+			],
+			[
+				"mpf_s",
+				"mpf_set"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"al",
+				"alphabetDict"
+			],
+			[
+				"alp",
+				"alphabet"
+			],
+			[
+				"r",
+				"response"
+			],
+			[
+				"Test",
+				"TestHandler"
+			],
+			[
+				"for",
+				"form"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Agente.py",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Main.py",
+			"settings":
+			{
+				"buffer_size": 540,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Ambiente.py",
+			"settings":
+			{
+				"buffer_size": 488,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"line",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntaxpy",
+				"Set Syntax: Python"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/scaroni/IME-USP/2013-2/MAC0425/eps/ep1/Ambiente.pyc",
+		"/home/scaroni/IME-USP/2013-2/MAC0425/eps/ep1/Agente.pyc",
+		"/home/scaroni/IME-USP/2013-2/MAC0425/eps/ep1/test.txt",
+		"/home/scaroni/IME-USP/2013-2/MAC0425/eps/ep1/main.py",
+		"/home/scaroni/IME-USP/2013-2/MAC0425/eps/ep1/ep1-IA.sublime-project",
+		"/home/scaroni/IME-USP/2013-2/MAC0425/eps/ep1/ep1-IA.sublime-workspace",
+		"/home/scaroni/python/qtreegen.py",
+		"/home/scaroni/python/4.py",
+		"/home/scaroni/python/buildEvoInstaller.py",
+		"/home/scaroni/IME-USP/MAC0448/ep1/src/http_methods.h",
+		"/home/scaroni/IME-USP/MAC0448/ep1/src/http_methods.c",
+		"/home/scaroni/IME-USP/MAC0448/ep1/src/http_main.c",
+		"/home/scaroni/IME-USP/MAC0448/ep1/test2.html",
+		"/home/scaroni/IME-USP/MAC0448/ep1/makefile",
+		"/home/scaroni/IME-USP/MAC0448/ep1/ep1.c",
+		"/home/scaroni/python/Instalar",
+		"/home/scaroni/Evobooks/buildEvoInstaller.py",
+		"/home/scaroni/python/EvobooksInstaller/Instalar",
+		"/home/scaroni/python/helloworld.py",
+		"/home/scaroni/python/filechooser.py~",
+		"/home/scaroni/python/filechooser.py",
+		"/home/scaroni/python/helloworld.py~",
+		"/home/scaroni/grafos/tarefaRec/Relatorio.txt",
+		"/home/scaroni/grafos/tarefaRec/teste2.txt",
+		"/home/scaroni/grafos/tarefaRec/teste1.txt",
+		"/home/scaroni/grafos/tarefaRec/tarefaRec.c",
+		"/home/scaroni/grafos/tarefa11/tarefa11.c",
+		"/home/scaroni/grafos/tarefa7/RS.c",
+		"/home/scaroni/google_appengine/Apps/mmdb/lista.html",
+		"/home/scaroni/google_appengine/Apps/mmdb/cinematheaterwebsitetemplate/blog.html",
+		"/home/scaroni/google_appengine/Apps/mmdb/cinematheaterwebsitetemplate/css/style.css",
+		"/home/scaroni/google_appengine/Apps/mmdb/cinematheaterwebsitetemplate/index.html",
+		"/home/scaroni/google_appengine/Apps/mmdb/backend/main.py",
+		"/home/scaroni/google_appengine/Apps/mmdb/backend/film.py",
+		"/home/scaroni/google_appengine/Apps/mmdb/backend/film.pyc",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/film.pyc",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/film.py",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/main.py",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/lista.html",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/main.css",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/endAction.html",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/app.yaml",
+		"/home/scaroni/google_appengine/Apps/mmdb/addlista.html",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/addlista.html",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/rot13.html",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/rot13.py",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/user.py",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/user.pyc",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/page.html",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/hello.py",
+		"/home/scaroni/google_appengine/Apps/hw/hw.py",
+		"/home/scaroni/grafos/tarefa16/output",
+		"/home/scaroni/grafos/tarefa16/new.c",
+		"/home/scaroni/grafos/tarefa16/tarefa16.c",
+		"/home/scaroni/grafos/tarefa16/Relatorio.txt",
+		"/home/scaroni/grafos/tarefa6/tarefa6.c",
+		"/home/scaroni/grafos/tarefa6/t6.c",
+		"/home/scaroni/test.py",
+		"/home/scaroni/concorrente/ep3/ep3.py",
+		"/home/scaroni/concorrente/ep2/concorrente2/ep2/compila",
+		"/home/scaroni/concorrente/ep2/concorrente2/ep2/pifast.c",
+		"/home/scaroni/concorrente/ep2/concorrente2/ep2/makefile",
+		"/home/scaroni/concorrente/ep2/concorrente2/ep2/pi2.c",
+		"/home/scaroni/concorrente/ep2/concorrente2/ep2/pi.c",
+		"/home/scaroni/concorrente/ep2/concorrente2/ep2/pi5.c",
+		"/home/scaroni/google_appengine/Apps/UdacityWebCourse/MainPage.py",
+		"/home/scaroni/google_appengine/apps/UdacityWebCourse/MainPage.py",
+		"/home/scaroni/google_appengine/apps/UdacityWebCourse/app.yaml",
+		"/home/scaroni/google_appengine/apps/UdacityWebCourse/page.html",
+		"/home/scaroni/google_appengine/hw/hello.py",
+		"/home/scaroni/google_appengine/hw/app.yaml",
+		"/home/scaroni/Downloads/google_appengine"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"serverName",
+			"connfd",
+			"	\n",
+			"enter_callback",
+			"button",
+			"Corrigido: agora ele olha para posicao t da pilha",
+			"1",
+			"Foi adicionado essa condicional para retornar null se nao existe",
+			"REDIRECT",
+			"endAction",
+			"defined",
+			"Graph G",
+			"rand",
+			"GRAPHInsertE",
+			"struct adjNode",
+			"sort",
+			" srand (time(NULL));",
+			"G->A",
+			"argc",
+			");",
+			"k_ref",
+			"DEBUG",
+			"as",
+			"assum",
+			"mpf_abs",
+			"pi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Agente.py",
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Main.py",
+					"settings":
+					{
+						"buffer_size": 540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Ambiente.py",
+					"settings":
+					{
+						"buffer_size": 488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
